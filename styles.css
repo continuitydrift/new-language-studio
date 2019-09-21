@@ -227,6 +227,13 @@ figure {
     padding: 1rem;
 }
 
+#for-real {
+  padding: 6em;
+}
+#for-real h2{
+  padding-bottom: 6px;
+  padding-top: 4px;
+}
 
 
 
